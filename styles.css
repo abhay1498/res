@@ -6,7 +6,7 @@ body{
 .top-container{
     position: relative;
     padding-top: 100px;
-    background-image: url(Images/computer.jpg);
+    background-image: url(computer.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
